@@ -1,0 +1,46 @@
+.mire {
+	position: absolute;
+	left: 0;
+	top: 0;
+	border:1px solid green;
+	text-align:right;
+	color:green;
+}
+#s1024 {
+	width:1022px;
+	height:1022px;
+}
+#s960 {
+	width:958px;
+	height:958px;
+}
+#s720 {
+	width:718px;
+	height:718px;
+}
+#s640 {
+	width:638px;
+	height:638px;
+
+}
+#s600 {
+	width:598px;
+	height:598px;
+
+}
+#s480 {
+	width:478px;
+	height:478px;
+}
+#s420 {
+	width:418px;
+	height:418px;
+}
+#s360 {
+	width:358px;
+	height:358px;
+}
+#s320 {
+	width:318px;
+	height:318px;
+}
